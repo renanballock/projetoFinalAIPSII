@@ -1,4 +1,4 @@
-/*----Estilos Globais----*/
+/*Estilos Globais*/
  * {
     margin: 0;
     padding: 0;
@@ -54,7 +54,7 @@ h1 {
     margin-bottom: 40px;
 }
 
-/*----Estilos dos botões----*/
+/*Estilos dos botões*/
 .button-group {
     display: flex;
     gap: 30px;
@@ -85,7 +85,7 @@ button {
     color: black;
 }
 
-/*----Cores dos botões----*/
+/*Cores dos botões*/
 
 .btn-consultar {
     background-color: #5b8de3;
